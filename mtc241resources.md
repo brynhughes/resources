@@ -34,7 +34,8 @@ title: Resources
 - Inversion of pc sets
 - Axis of symmetry
 - Set classes, prime form
-- Interval vector, z-relation
+- Interval vector
+- Z-relation
 - Invariance
 - Complement sets
 - Subsets and supersets
@@ -42,8 +43,10 @@ title: Resources
 
 ## Twelve-tone composition ##
 
-- Twelve-tone matrix, basic forms of the row
-- Derived row, all-interval row
+- Basic forms of the row
+- Twelve-tone matrix
+- Derived row
+- All-interval row
 - Invariance in twelve-tone rows
 - Hexachordal combinatoriality
 
