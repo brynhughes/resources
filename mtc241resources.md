@@ -3,7 +3,9 @@ layout: default
 title: Resources
 ---
 
-## Scales ##
+Below is a list of terms and concepts that you should get to know during your time in MTC 241. I will be adding links to brief definitions and demonstrations of these concepts as time permits. 
+
+### Scales ###
 
 - Diatonic modes  
 - Pentatonic scales  
@@ -11,20 +13,26 @@ title: Resources
 - Octatonic scale
 - Hexatonic scale
 - Interval cycle  
+<br>
 
-## Harmony ##
+### Harmony ###
 
+- Ninth chords
+- Eleventh chords
+- Thirteenth chords
 - Quartal harmony  
 - Quintal harmony  
 - Planing  
 - Transpositional combination  
+<br>
 
-## Texture ##
+### Texture ###
 
 - Stratification  
 - Layering  
+<br>
 
-## Pitch-Class Set Theory ##
+### Pitch-Class Set Theory ###
 
 - Intervals
 - Pitch class integers
@@ -39,9 +47,10 @@ title: Resources
 - Invariance
 - Complement sets
 - Subsets and supersets
-- Symmetrical sets
+- Symmetrical sets  
+<br>
 
-## Twelve-tone composition ##
+### Twelve-tone composition ###
 
 - Basic forms of the row
 - Twelve-tone matrix
