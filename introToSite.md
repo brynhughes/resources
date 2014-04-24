@@ -2,7 +2,8 @@
 layout: post
 title: Introduction to this "textbook" 
 ---
-
+{{ page.title }}
+================
 
 This website is a still-growing, online "textbook" for students at the Frost School of Music at the University of Miami. Textbook is in scare quotes because this is neither a book, nor entirely comprised of text. But it is the main source of information, and the main resource for student reference, in the theory curriculum.
 

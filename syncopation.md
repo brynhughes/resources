@@ -46,6 +46,6 @@ In the following video, I walk through this process in the song "Shh" by Frou Fr
 <iframe src="http://player.vimeo.com/video/52491312?badge=0" width="500" height="281" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
-[quarterToEighth]: Graphics/syncopation/quarterToEighth.png width="75%"
-[halfToQuarter]: Graphics/syncopation/halfToQuarter.png width="75%"
-[eighthToSixteenth]: Graphics/syncopation/eighthToSixteenth.png width="75%"
+[quarterToEighth]:Graphics/syncopation/quarterToEighth.png 
+[halfToQuarter]:Graphics/syncopation/halfToQuarter.png 
+[eighthToSixteenth]:Graphics/syncopation/eighthToSixteenth.png 

@@ -29,7 +29,7 @@ title: Music Theory Resources
 [Realizing a figured bass line in melodic keyboard style (video).][melKB]  
 [Realizing an unfigured bass line (video).][unfiguredBass]  
 
-[Voice-leading in contemporary Christian worship music.][popRockVL]  
+<!--[Voice-leading in contemporary Christian worship music.][popRockVL]-->
 
 # Harmony #
 
@@ -78,20 +78,20 @@ title: Music Theory Resources
 [Sheet of blank chromatic-scale clock faces.][clocks]  
 
 
-# Writing #
+<!--# Writing #
 
 Copyright and fair use.  
 Style guidelines.  
 Writing blog comments.  
-Writing a music-analytical essay.  
+Writing a music-analytical essay.  -->
 
-# Technology #
+<!-- # Technology #
 
 [Typesetting a keyboard-style voice-leading exercise.][kbTypesetting]  
 [Using Variations Audio Timeliner.][VAT]  
 [Adding a creative commons license to a blog post.][addCC]  
 [Posting a blog link to Twitter.][linkToTwitter]  
-[Creating a musical graphic and importing it into a text document.][createGraphic]
+[Creating a musical graphic and importing it into a text document.][createGraphic]-->
 
 # Performance #
 
@@ -105,7 +105,8 @@ Writing a music-analytical essay.
 # Text and music #
 
 [Analyzing poetry.][poetry]  
-[Interpreting Scripture – introductory resources.][biblicalHermeneutics]  
+
+<!-- [Interpreting Scripture – introductory resources.][biblicalHermeneutics]  -->
 
 [musi199]: http://kshaffer.github.com/musi199
 [musi299]: http://kshaffer.github.com/musi299
