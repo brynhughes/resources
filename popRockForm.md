@@ -8,8 +8,6 @@ title: Form in pop/rock music
 
 This document is a glossary of terms and concepts that we will use in our analysis of pop/rock music. Terms, concepts, definitions, and notational guidelines in this document are taken either from common convention; the published or unpublished work of Jason Summach, John Covach, Walter Everett, Mark Spicer, or Daniel Harrison; or some combination thereof.
 
-this is awesome stuff, folks. 
-
 I. Text
 -------
 
