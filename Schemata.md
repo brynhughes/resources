@@ -60,4 +60,4 @@ Caplin, William. *Classical Form*. Oxford University Press, 2000.
 
 Gjerdingen, Robert O. *Music in the Galant Style*. Oxford University Press, 2007.
 
-[Haydn27]: Graphics/Schemata/Haydn27fonteAnnotated.png width="75%"
+[Haydn27]: Graphics/Schemata/Haydn27fonteAnnotated.png 

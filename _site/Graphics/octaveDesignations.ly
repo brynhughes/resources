@@ -1,5 +1,4 @@
-\version "2.14.2"
-
+\version "2.16.1"
 #(set-default-paper-size "letter")
 #(set-global-staff-size 20)
 
@@ -47,31 +46,34 @@ lower = <<
 	\new Voice = "bass" <<
 		\relative c' {
 			\clef treble
-			
+
 		\set Staff.explicitClefVisibility = #end-of-line-invisible
    		\set Staff.explicitKeySignatureVisibility = #end-of-line-invisible
 		\set Staff.printKeyCancellation = ##f
-		
+
 		c1 d e f g a b c \bar "||" \break
-		
+
 		\clef bass c,1 b a g f e d c \bar "||" \break
+
+		\clef alto \time 9/1 f g a b c d e f g \bar "||" \break 
 		
-		\clef alto \time 9/1 f g a b c d e f g \bar "||"
-		
+		\clef tenor \time 9/1 d, e f g a b c d e \bar "||"
+
 			}
-		
+
 		>>
 	>>
 
 functionalBass = {
 	\set stanza = \markup { \normal-text "" }
 		\lyricmode {
-		
+
 		% enter functional bass here, follwing the rules of lilypond lyrics
-		
+
 		"C4" "D4" "E4" "F4" "G4" "A4" "B4" "C5"	
 		"C4" "B3" "A3" "G3" "F3" "E3" "D3" "C3"
 		"F3" "G3" "A3" "B3" "C4" "D4" "E4" "F4" "G4"
+		"D3" "E3" "F3" "G3" "A3" "B3" "C4" "D4" "E4"
 		}
 	}
 

@@ -11,7 +11,9 @@ title: Music Theory Resources
 
 [Meter and time signatures.][meter]  
 [Pitches and octave designations.][pitches]  
+[The keyboard.][keyboardlayout]  
 [Intervals and dyads.][intervals]  
+[Scales.][scales]  
 [Triads and seventh chords.][triads]  
 [Types of contrapuntal motion.][motionTypes]
 
@@ -116,7 +118,9 @@ Writing a music-analytical essay.  -->
 
 [meter]: meter.html
 [pitches]: pitches.html
+[keyboardlayout]:keyboardlayout.html
 [intervals]: Intervals.html
+[scales]: scales.html
 [triads]: triads.html
 [motionTypes]: motionTypes.html
 
